@@ -26,5 +26,6 @@
   "dependencies": {
     "react-is-deprecated": "^0.1.2",
     "shallowequal": "^1.1.0"
-  }
+  },
+  "gitHead": "0563c7e05383c6b97638cc76a028769299618651"
 }
